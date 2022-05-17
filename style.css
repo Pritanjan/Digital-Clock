@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: teal;
+    border: 1px solid #ccc;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    
+    text-align: center;
+    font-size: 50px;
+    font-family: Orbitron, Helvetica;
+    border-radius: 25px;
+    padding: 40px;
+}
+
