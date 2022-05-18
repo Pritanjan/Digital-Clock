@@ -18,3 +18,8 @@ h1{
     padding: 40px;
 }
 
+@media screen and (max-width: 420px) {
+  .title {
+    font-size: 1.5rem; 
+  }
+}
